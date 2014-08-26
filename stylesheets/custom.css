@@ -1,5 +1,5 @@
 body {
-	background: #eee;
+	background: #fff;
 }
 
 .highlight h3:hover, .highlight h2:hover {
@@ -10,9 +10,10 @@ body {
 	position: fixed;
 	z-index: 10000;
 	width: 100%;
-	background-color: #eee;
+	background-color: #fff;
 	padding-top: 50px;
 }
+
 .fixed-content {
 	padding: 220px 0; 
 }
@@ -48,7 +49,7 @@ img {
 	position: relative;
 	display: inline-block;
 	outline: none;
-	color: #69c869;
+	color: #1b87e3;
 	text-decoration: none;
 	text-transform: uppercase;
 	letter-spacing: 1px;
@@ -88,14 +89,15 @@ img {
 
 .circle-effect a:hover::before,
 .circle-effect a:focus::before {
-	color: #fff;
-	text-shadow: 10px 0 #fff, -10px 0 #fff;
+	color: #202020;
+	text-shadow: 10px 0 #202020, -10px 0 #202020;
 }
 
 #nav a:hover,
 #nav a:focus {
-	color: #6969c8;
+	color: #003087;
 }
+
 
 .thumbnail {
 	position: relative;
@@ -147,3 +149,4 @@ img {
 	color: #69c869;
 	margin-top: 150px;
 }
+
