@@ -931,6 +931,18 @@ figure {
 img {
   vertical-align: middle;
 }
+
+.img-portfolio{
+    position: relative;
+    float: left;
+    width:  100px;
+    height: 100px;
+    background-position: 50% 50%;
+    background-repeat:   no-repeat;
+    background-size:     cover;
+
+}
+
 .img-responsive,
 .thumbnail > img,
 .thumbnail a > img,
