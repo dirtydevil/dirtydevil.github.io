@@ -154,7 +154,8 @@ header .intro-text .name {
     /*font: "OpenSans-Light";*/
     /*font-family: "OpenSans-Light";src:url('fonts/openSans/');*/
     /*font-family: "Helvetica Neue",Helvetica;*/
-    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    /*font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;*/
+    font-family: 'Open Sans', sans-serif;
     font-size: 1em;
     font-weight: 200;
 }
@@ -165,7 +166,8 @@ header .intro-text .skills {
     /*line-height: 1.75;*/
     letter-spacing: 0.5px;
     /*word-spacing: 0.5px*/
-    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    /*font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;*/
+    font-family: 'Open Sans', sans-serif;
 }
 
 header .main-content {
@@ -173,7 +175,8 @@ header .main-content {
     src:url('fonts/openSans/');*/
     /*font-family: "OpenSans-Light";src:url('fonts/openSans/');*/
     /*font-family: "Helvetica Neue",Helvetica;*/
-    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    /*font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;*/
+    font-family: 'Open Sans', sans-serif;
     text-align: left;
     font-size: 1.20em;
     font-weight: 200;
@@ -229,7 +232,8 @@ header .main-content {
 .navbar {
     text-transform: uppercase;
     /*font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;*/
-    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    /*font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;*/
+    font-family: 'Open Sans', sans-serif;
     font-weight: 300;
 
 }
@@ -284,7 +288,8 @@ section.success {
 }
 
 section .content-main{
-    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    /*font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;*/
+    font-family: 'Open Sans', sans-serif;
     text-align: left;
     font-size: 1.20em;
     font-weight: 200;
